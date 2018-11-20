@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+.job-right-aside{ width:260px; float:right}
+.job-left-aside{ width:260px; float:left}
+.job-article{ width:790px; float:left}
+.job-right-article{ width:790px; float:right}
+
+.dingyue-aside-nav{ margin-right:-2px}
+.dingyue-aside-nav li{ float:left;width:129px; border-right:solid 1px #ededed; text-align:center; position:relative}
+.dingyue-aside-nav li a{ display:block; height:56px; line-height:56px; font-size:16px}
+.dingyue-aside-nav li:last-child{ border-right:0}
+.dingyue-aside-nav li .icon-dot{ position:absolute; left:20px; top:25px;}
+.dingyue-aside-nav li a:hover{ text-decoration:none}
+
+.finishBar{ width:260px;}
+.finishBar.isStuck{left:50%; margin-left:280px}
+.finishBar.isStuck.isStuck2{position:absolute; bottom:0}
+.finishBar a{display:block; line-height:40px; font-size:14px;padding-left:25px; color:#666; cursor:pointer; position:relative}
+.finishBar a i{display:none}
+.finishBar a.current,.finishBar a:hover{color:#ff8600; text-decoration:none}
+.finishBar a.current i{position:absolute; left:0; height:14px; width:2px; display:block; top:13px; background-color:#ff8600}
+.resume-name-box{ position:relative}
+.resume-name-box .iconpic-jianli-del{ position:absolute; right:0; cursor:pointer; top:5px}
+
+/*简历页面*/
+
+/*简历头像*/
+#resumeedit_Base .user-headpic{position:absolute; z-index:1;top:-70px; left:50%; margin-left:-70px;}
+
+/*简历模块*/
+.jianli-box{padding-top:30px; border-top:#ededed solid 1px; padding-bottom:40px}
+.jianli-box:last-child{ padding-bottom:0}
+
+#dropDown-base-email{ width:360px}
+#dropDown-base-email.dropDown .dropDown_A{ background-position:338px center}
+#resumeedit_qianming_edit{ position:absolute; top:121px; left:0;right:0; text-align:center; background-color:#fff}
+
+#resumeedit_Base_qianming{ position:relative; padding:5px 10px}
+#resumeedit_Base_qianming .link-edit{ position:absolute; right:10px; top:5px; display:none}
+#resumeedit_Base_qianming:hover{ background-color:#fafafa}
+#resumeedit_Base_qianming:hover .link-edit{ display:block}
+
+#resumeedit_Base_info{ position:relative; padding:10px 10px 0}
+#resumeedit_Base_info p{padding-bottom:10px; margin-bottom:0}
+
+#resumeedit_Base_info .link-edit{ position:absolute; right:10px; top:10px; display:none}
+#resumeedit_Base_info:hover{ background-color:#fafafa}
+#resumeedit_Base_info:hover .link-edit{ display:block}
+
+#resumeedit_zidingyi{ margin-left:40px; margin-right:40px; padding-bottom:40px;}
+#resumeedit_Base_edit{ margin-top:30px}
+
+#form_resumeedit_base_edit.Huiform-horizontal .form-label{ width:120px}
+#form_resumeedit_base_edit.Huiform-horizontal .formControls{ margin-left:130px}
+
+.jianli-box-body{padding-top:25px}
+	.jianli-box-list .item{position:relative; color:#666; font-size:14px}
+	.jianli-box-list .item.hover{background-color:#fafafa}
+	.jianli-box-list .item p{word-wrap:break-word; white-space:normal; word-break:break-all}
+	
+	.jianli-box-list .item .jianli-edit{position:absolute; right:0; top:0;}	
+	.jianli-box-list .item .jianli-datetime{ position:absolute; right:45px; top:0}	
+	
+	.jianli-box-list2{border-left:solid 2px #f2f2f2}
+	.jianli-box-list2 .item{padding-left:12px; position:relative; padding-bottom:35px; margin-top:-5px}
+	.jianli-box-list2 .item:last-child{ padding-bottom:0}
+	.jianli-box-list2 .item .info-title{padding-right:190px}
+	.jianli-box-list2 .item .icon-dot{position:absolute; top:6px; left:-6px; width:10px; height:10px; font-size:0; line-height:0; background-color:#ffd100; border-radius:10px}
+	.jianli-box .jianli-content{ font-size:14px; color:#666}
+	.jianli-add-box{ background-color:#fafafa; border:solid 1px #f2f2f2; padding:40px}
+	
+	.jianli-box .Huiform-horizontal .form-label{width:84px}
+	.jianli-box .Huiform-horizontal .formControls{margin-left:94px}
+
+.quick-new-resume-topbar{ height:50px; line-height:50px; background-color:#fff; border-bottom:solid 1px #e2e2e2}
+
+a.link-uploadheadpic{ position:absolute; top:0; left:0; right:0; bottom:0; text-align:center;font-size:12px; line-height:16px; text-decoration:none; background-color:rgba(0,0,0,0.5); border-radius:50%;padding-top:17px; color:#fff; display:none}
+a.link-uploadheadpic:hover{ text-decoration:none; color:#fff;}
+a.link-uploadheadpic .iconpic-resume-fabu2{ margin-bottom:15px}
+.user-headpic:hover a.link-uploadheadpic{ display:block}
+
+#form-newresume-base .form-label{width:255px}
+#form-newresume-base .formControls{ margin-left:260px}
+#form-newresume-base .formControls .input-text{ width:380px}
+#form-newresume-base .resume-product-tabBar{ width:auto}
+#form-newresume-base .formRow:last-child{ margin-bottom:0}
+
+#form-newresume-base2 .form-label{width:470px}
+#form-newresume-base2 .formControls{ margin-left:475px}
+
+#form-newresume-post .form-label{width:345px}
+#form-newresume-post .formControls{ margin-left:350px}
+#form-newresume-post .formControls .input-text{ width:380px}
+#form-newresume-post .group-item{ position:relative; padding-bottom:20px}
+#form-newresume-post .group-item .link-del-post{ position:absolute; left:706px; bottom:-20px; font-size:14px}
+
+#form-newresume-edu .form-label{width:415px}
+#form-newresume-edu .formControls{ margin-left:420px}
+#form-newresume-edu .formControls .input-text{ width:240px}
+#form-newresume-edu .group-item{ position:relative; padding-bottom:20px}
+#form-newresume-edu .group-item .link-del-post{ position:absolute; left:671px; bottom:-20px; font-size:14px}
+
+#form-newresume-qianming{}
+#form-newresume-qianming .form-label{width:365px}
+#form-newresume-qianming .formControls{ margin-left:370px}
+
+/*头像上传*/
+.imgareaselect-border1 {background: url(../images/border-v.gif) repeat-y left top}
+.imgareaselect-border2 {background: url(../images/border-h.gif) repeat-x left top}
+.imgareaselect-border3 {background: url(../images/border-v.gif) repeat-y right top}
+.imgareaselect-border4 {background: url(../images/border-h.gif) repeat-x left bottom}
+.imgareaselect-border1, .imgareaselect-border2,
+.imgareaselect-border3, .imgareaselect-border4 {filter: alpha(opacity=50);opacity: 0.5}
+.imgareaselect-handle {background-color: #fff;border: solid 1px #000;filter: alpha(opacity=50);opacity: 0.5}
+.imgareaselect-outer {background-color: #000;filter: alpha(opacity=50);opacity: 0.5}
+
+
+
+.waterfall-container{ position:relative; height:auto;width:580px; margin:auto}
+.waterfall-container .item,.waterfall-container .item img{width:180px; height:auto}
+.waterfall-container .item{margin-bottom:20px; position:relative;}
+#waterfall-loading{ display:none}
+.waterfall-container .item .iconpic-product-del{display:none}
+.waterfall-container .item:hover .iconpic-product-del{ position:absolute; right:0; top:0; cursor:pointer; display:block}
