@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 let version = "{{site.time | date: "%Y%m%d%H%M%S"}}"
 let baseUrl = '{{site.baseurl}}'
 

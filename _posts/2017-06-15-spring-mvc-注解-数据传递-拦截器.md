@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: SpringMVC 注解 数据传递 拦截器
-categories: [Java]
+date: 2017-06-15 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 ## 多样化的配置

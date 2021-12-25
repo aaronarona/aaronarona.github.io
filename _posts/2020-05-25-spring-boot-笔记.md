@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: SpringBoot笔记
-categories: [Java]
+date: 2020-05-25 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 Spring 推荐使用 Maven 和 Gradle 构建项目，这里是以 Maven 为例。推荐使用[官方的工具](https://start.spring.io/)生成项目模板。另外注意的是项目结构不再是 webapp 了，但是它仍然是可以打包为 war 文件的

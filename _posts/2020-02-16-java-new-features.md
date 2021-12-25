@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Java 新特性总结
-categories: [Java]
+date: 2020-02-16 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 Java 应该是我学的第一门后端语言，可能是学的比较早，尽管那时候已经是 1.8 了，但是在当时的 Java 教程里都没有讲过 Java 的一些新特性。

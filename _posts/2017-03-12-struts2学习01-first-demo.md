@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Struts2学习-01 First Demo
-categories: [Java]
+date: 2017-03-12 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 ## 基本步骤

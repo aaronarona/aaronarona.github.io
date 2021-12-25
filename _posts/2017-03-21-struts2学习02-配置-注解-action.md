@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Struts2学习-02 配置 注解 Action
-categories: [Java]
+date: 2017-03-21 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 ## web.xml配置

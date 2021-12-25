@@ -1,8 +1,11 @@
 ---
+title: Java注解(Annotation)学习
+date: 2016-05-15 00:00:00 Z
+categories:
+- Java
 layout: mypost
-title:  Java注解(Annotation)学习
-categories: [Java]
 ---
+
 ## 概念
 
 注解（Annotation），也叫元数据。一种代码级别的说明。它是JDK1.5及以后版本引入的一个特性，与类、接口、枚举是在同一个层次。它可以声明在包、类、字段、方法、局部变量、方法参数等的前面，用来对这些元素进行说明，注释。

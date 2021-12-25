@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: SpringMVC 常见问题
-categories: [Java]
+date: 2017-06-24 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 ## DispatcherServlet的影响

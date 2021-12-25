@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Gradle快速入门
-categories: [Java]
+date: 2020-02-15 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 Gradle 是使用 Java 和 Groovy（基于 JVM 兼容 Java） 开发的一个项目自动化构建工具

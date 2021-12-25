@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: GitHub配置SSH登陆
-categories: [小技巧]
+date: 2017-07-22 00:00:00 Z
+categories:
+- 小技巧
+layout: mypost
 ---
 
 http 和 ssh 的区别都可以克隆项目到本地。使用 http 客户端无需额外的配置；而使用 ssh 需要先配置和公钥私钥，好处是使用 git 操作的时候可以不用不填写用户名，如果密钥不设置密码连密码也省去了填写

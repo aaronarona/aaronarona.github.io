@@ -1,6 +1,6 @@
 ---
-layout: mypost
 title: 关于我
+layout: mypost
 ---
 
 > Hello 陌生人，欢迎访问 TMaize Blog

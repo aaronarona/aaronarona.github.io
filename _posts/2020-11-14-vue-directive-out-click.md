@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Vue指令实现OutClick
-categories: [前端]
+date: 2020-11-14 00:00:00 Z
+categories:
+- 前端
+layout: mypost
 ---
 
 在一般业务中监听的最多的就是 Click 事件，但是在一些业务比如 Alert 和 Pop 效果时，需要监听在元素外部的点击来关闭弹窗。

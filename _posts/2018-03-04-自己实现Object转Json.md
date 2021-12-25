@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: 自己实现Object转Json
-categories: [Java]
+date: 2018-03-04 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 之前公司里写项目，前台需要用到ajax请求json数据

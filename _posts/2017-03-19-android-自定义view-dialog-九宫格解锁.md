@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Android 自定义view/dialog-九宫格解锁
-categories: [Android]
+date: 2017-03-19 00:00:00 Z
+categories:
+- Android
+layout: mypost
 ---
 
 最近在用快图的时候发现了一种漂亮的Dialog,如下图所示

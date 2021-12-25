@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: 解决Page build failure
-categories: [Jekyll]
+date: 2019-10-13 00:00:00 Z
+categories:
+- Jekyll
+layout: mypost
 ---
 
 前几天提交 Git 后，收到了 Github 的邮件提示 Page build failure

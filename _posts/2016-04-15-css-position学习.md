@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: css的position定位
-categories: [前端]
+date: 2016-04-15 00:00:00 Z
+categories:
+- 前端
+layout: mypost
 ---
 
 ## 文档流介绍

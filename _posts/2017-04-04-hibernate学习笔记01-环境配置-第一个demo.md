@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Hibernate学习笔记01 环境配置 第一个Demo
-categories: [Java]
+date: 2017-04-04 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 ## 概述

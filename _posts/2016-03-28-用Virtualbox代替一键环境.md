@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: 用Virtualbox代替一键环境
-categories: [小技巧]
+date: 2016-03-28 00:00:00 Z
+categories:
+- 小技巧
+layout: mypost
 ---
 
 > 在windows下搭建web环境一般都是用phpStudy之类的一键环境，但是项目最终还是部署在linux上面，无法做到真实的模拟环境。所以考虑用Virtualbox安装CentOS，在虚拟机中模拟，然后进行端口转发即可

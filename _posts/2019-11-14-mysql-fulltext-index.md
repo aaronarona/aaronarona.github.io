@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: MySQL之全文索引
-categories: [数据库]
+date: 2019-11-14 00:00:00 Z
+categories:
+- 数据库
+layout: mypost
 ---
 
 当数据量大的时候，使用 like 进行关键词查找是很慢的，这时候就需要建立全文索引了。mysql5.6 之前，只有 myisam 支持全文索引。到了 mysql5.6，innodb 开始支持全文索引

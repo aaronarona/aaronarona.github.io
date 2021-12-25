@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: 接入Google AdSense
-categories: [小技巧]
+date: 2019-12-15 00:00:00 Z
+categories:
+- 小技巧
+layout: mypost
 ---
 
 什么是 Google AdSense：在网站内投放广告，以此来赚取收益，类似于国内的广告联盟。

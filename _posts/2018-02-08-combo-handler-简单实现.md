@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Combo Handler 简单实现
-categories: [Java]
+date: 2018-02-08 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 Web性能优化最佳实践中最重要的一条是减少HTTP请求

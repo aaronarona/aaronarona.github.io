@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: File Img Canvas的操作总结
-categories: [前端]
+date: 2017-12-10 00:00:00 Z
+categories:
+- 前端
+layout: mypost
 ---
 
 记录下H5的FileAPI和Canvas一些操作

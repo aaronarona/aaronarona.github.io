@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: CentOS下安装Puppeteer
-categories: [Linux]
+date: 2019-10-01 00:00:00 Z
+categories:
+- Linux
+layout: mypost
 ---
 
 > puppeteer 是一个 Chrome 官方出品的 headless Chrome node 库。它提供了一系列的 API, 可以在无 UI 的情况下调用 Chrome 的功能, 适用于爬虫、自动化处理等各种场景

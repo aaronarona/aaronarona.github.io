@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: React中使用Redux
-categories: [前端]
+date: 2020-10-18 00:00:00 Z
+categories:
+- 前端
+layout: mypost
 ---
 
 Redux 是 JavaScript 的状态容器，提供了可预测的状态管理。一般 Redux 都是搭配 React 使用，也可以在 Vue 中使用，据说 Vuex 就是根据 Redux 来的。

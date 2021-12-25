@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: CentOS下搭建Aria2
-categories: [Linux]
+date: 2018-02-23 00:00:00 Z
+categories:
+- Linux
+layout: mypost
 ---
 
 适用于CentOS 6.3 32位，64位替换下rpm就可以了

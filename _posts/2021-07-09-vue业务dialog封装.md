@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Vue业务Dialog封装
-categories: [前端]
+date: 2021-07-09 00:00:00 Z
+categories:
+- 前端
+layout: mypost
 ---
 
 在写业务的时候很常见的一个场景就是需要在不同的页面调用同一个表单，常用的交互就是把表单以弹窗的形式展示，但是在每个页面又重复的引入表单组件有时候又很麻烦

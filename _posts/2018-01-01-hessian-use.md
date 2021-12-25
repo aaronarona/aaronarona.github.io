@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: Hessian使用
-categories: [Java]
+date: 2018-01-01 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 Hessian 是一个轻量级的 RPC 框架

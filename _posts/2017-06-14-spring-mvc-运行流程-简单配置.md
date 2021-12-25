@@ -1,7 +1,9 @@
 ---
-layout: mypost
 title: SpringMVC 运行流程及基本配置代码
-categories: [Java]
+date: 2017-06-14 00:00:00 Z
+categories:
+- Java
+layout: mypost
 ---
 
 ## Spring Web MVC概述
